@@ -40,7 +40,7 @@ export class ChildComponent {
 }
 ```
 
-## 2. Using Output() and EventEmitter in childcomponent
+## 2. Using Output() and EventEmitter in child component
 
 Parent component
 ```js
