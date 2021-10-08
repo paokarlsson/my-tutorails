@@ -15,7 +15,7 @@ Good for learning and demo.
 4. Pull the image using this command:  `docker pull store/oracle/database-enterprise:12.2.0.1-slim`
 5. Start a container from the image using this command: `docker run -dp 1521:1521 --name <name of container> store/oracle/database-enterprise:12.2.0.1-slim`
 
-6. För att ansluta till databasen: 
+6. Database connection: 
 ```
 Hostname: localhost
 Port: 1521
